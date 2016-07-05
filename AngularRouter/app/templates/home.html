@@ -1,0 +1,47 @@
+<ul>
+	<li><a href="/#/">Home</a></li>
+	<li><a href="/#/about">About</a></li>
+	<li><a href="/#/contact">Contact</a></li>
+</ul>
+
+
+<div ng-controller="HomeCtrl as home">
+
+Welcome {{home.name}}
+
+
+<table ng-init="home.getUsers()">
+	<thead>
+		<th>
+			Id
+		</th>
+		<th>
+			First Name
+		</th>
+		<th>
+			Last Name
+		</th>
+		<th>
+			Email
+		</th>
+	</thead>
+
+	<tr ng-repeat="user in home.users">
+		<td>
+			{{user.id}}
+		</td>
+		<td>
+			{{user.first_name}}
+		</td>
+		<td>
+			{{user.last_name}}
+		</td>
+		<td>
+			{{user.email}}
+		</td>
+	</tr>
+
+</table>
+
+
+</div>

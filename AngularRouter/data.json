@@ -1,0 +1,71 @@
+[{
+  "id": 1,
+  "first_name": "Phyllis",
+  "last_name": "Rodriguez",
+  "email": "prodriguez0@howstuffworks.com",
+  "gender": "Female",
+  "ip_address": "13.153.96.220"
+}, {
+  "id": 2,
+  "first_name": "Thomas",
+  "last_name": "Shaw",
+  "email": "tshaw1@google.com.br",
+  "gender": "Male",
+  "ip_address": "239.230.133.128"
+}, {
+  "id": 3,
+  "first_name": "Jose",
+  "last_name": "Burke",
+  "email": "jburke2@gizmodo.com",
+  "gender": "Male",
+  "ip_address": "66.3.40.144"
+}, {
+  "id": 4,
+  "first_name": "Melissa",
+  "last_name": "Morris",
+  "email": "mmorris3@mapy.cz",
+  "gender": "Female",
+  "ip_address": "232.234.54.203"
+}, {
+  "id": 5,
+  "first_name": "Edward",
+  "last_name": "Lee",
+  "email": "elee4@abc.net.au",
+  "gender": "Male",
+  "ip_address": "219.204.194.218"
+}, {
+  "id": 6,
+  "first_name": "Jason",
+  "last_name": "Payne",
+  "email": "jpayne5@alibaba.com",
+  "gender": "Male",
+  "ip_address": "147.217.199.133"
+}, {
+  "id": 7,
+  "first_name": "Johnny",
+  "last_name": "Harvey",
+  "email": "jharvey6@nyu.edu",
+  "gender": "Male",
+  "ip_address": "170.117.91.69"
+}, {
+  "id": 8,
+  "first_name": "Willie",
+  "last_name": "Flores",
+  "email": "wflores7@pen.io",
+  "gender": "Male",
+  "ip_address": "209.130.19.11"
+}, {
+  "id": 9,
+  "first_name": "Diane",
+  "last_name": "Bryant",
+  "email": "dbryant8@studiopress.com",
+  "gender": "Female",
+  "ip_address": "227.186.98.182"
+}, {
+  "id": 10,
+  "first_name": "Jennifer",
+  "last_name": "Webb",
+  "email": "jwebb9@ucoz.com",
+  "gender": "Female",
+  "ip_address": "183.154.103.240"
+}]
